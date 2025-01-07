@@ -57,7 +57,7 @@ Python 3.x pip virtualenv
 
     Clone the project repository to your local machine using the following command:
 
-    git clone https://github.com/brook1167/Rossmann-Pharmaceuticals
+    git clone (https://github.com/Yoftahe2/Rossmann_Pharmaceuticals_sales_forcasting)
 
 2. Install dependencies
 
